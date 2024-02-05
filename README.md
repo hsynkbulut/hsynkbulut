@@ -1,7 +1,12 @@
 <h1 align="center">Hi 👋, I'm Hüseyin</h1>
 <h3 align="center">A passionate Computer Engineering student from Turkey</h3>
 
-- 💬 **Hello everyone. I am full of passion and interest in learning new things. I am determined to follow my dreams. I try to find the right path for myself by making mistakes. I know that time is very important and I am constantly trying to improve myself accordingly. I know that if I sacrifice something and don't do these things, I will regret it tomorrow. That's why I continue my way with firm steps without stopping or getting bored. In my life; "While others sleep, you work. When others are having fun, you learn. When others spend, you save. While they dream, you live." I act with this motto.**
+- 💬 Hello everyone,
+For me, one of the most valuable things in life is continuous learning. My passion and interest in learning is combined with my determination to pursue my dreams. In the process of finding the right path by making mistakes, I know the value of time to continuously improve myself and progress. I am aware that the sacrifices I do not make today may return as regrets tomorrow. For this reason, I continue on my way with firm steps without stopping and tiring.
+
+A motto that has always been a source of inspiration in my life is a guide for me: "While others sleep, you work; while others have fun, you learn; while others spend, you save; while others dream, you live!" These words motivate me every day and help me move forward with determination to achieve my goals.
+
+The sacrifices I make and my learning journey make me a better version of myself. I look to the future with confidence because I know that every step I take today will help me build a better version of myself tomorrow. There are many things I want to achieve in this life and I have the confidence to realise them. No obstacle can stop me on my way, because I am getting stronger and stronger every day.
 
 - 📫 How to reach me **hsyn.kbulut@gmail.com**
 
