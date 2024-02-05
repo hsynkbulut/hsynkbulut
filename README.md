@@ -2,6 +2,7 @@
 <h3 align="center">A passionate Computer Engineering student from Turkey</h3>
 
 - 💬 Hello everyone,
+
 For me, one of the most valuable things in life is continuous learning. My passion and interest in learning is combined with my determination to pursue my dreams. In the process of finding the right path by making mistakes, I know the value of time to continuously improve myself and progress. I am aware that the sacrifices I do not make today may return as regrets tomorrow. For this reason, I continue on my way with firm steps without stopping and tiring.
 
 A motto that has always been a source of inspiration in my life is a guide for me: "While others sleep, you work; while others have fun, you learn; while others spend, you save; while others dream, you live!" These words motivate me every day and help me move forward with determination to achieve my goals.
