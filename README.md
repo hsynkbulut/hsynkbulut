@@ -1,26 +1,28 @@
-<h1 align="center">Hi 👋, I'm Hüseyin</h1>
-<h3 align="center">A passionate Computer Engineering student from Turkey</h3>
+# 💫 About Me:
+💬 Hello everyone,<br><br>For me, one of the most valuable things in life is continuous learning. My passion and interest in learning is combined with my determination to pursue my dreams. In the process of finding the right path by making mistakes, I know the value of time to continuously improve myself and progress. I am aware that the sacrifices I do not make today may return as regrets tomorrow. For this reason, I continue on my way with firm steps without stopping and tiring.<br><br>A motto that has always been a source of inspiration in my life is a guide for me: "While others sleep, you work; while others have fun, you learn; while others spend, you save; while others dream, you live!" These words motivate me every day and help me move forward with determination to achieve my goals.<br><br>The sacrifices I make and my learning journey make me a better version of myself. I look to the future with confidence because I know that every step I take today will help me build a better version of myself tomorrow. There are many things I want to achieve in this life and I have the confidence to realise them. No obstacle can stop me on my way, because I am getting stronger and stronger every day.<br><br>📫 How to reach me hsyn.kbulut@gmail.com
 
-💬 Hello everyone,
+<br>
+<div id="header" align="left">
+<img src="https://media1.giphy.com/media/nbr4zVb3rQKsIR3o5d/giphy.webp?cid=ecf05e47oqujg9t9zwydkksd0bdo1gsytc5bw89dstc8p4h4&ep=v1_gifs_search&rid=giphy.webp&ct=g" width="300" />
 
-For me, one of the most valuable things in life is continuous learning. My passion and interest in learning is combined with my determination to pursue my dreams. In the process of finding the right path by making mistakes, I know the value of time to continuously improve myself and progress. I am aware that the sacrifices I do not make today may return as regrets tomorrow. For this reason, I continue on my way with firm steps without stopping and tiring.
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2BB92F&lines=+Hüseyin+Karabulut)
 
-A motto that has always been a source of inspiration in my life is a guide for me: "While others sleep, you work; while others have fun, you learn; while others spend, you save; while others dream, you live!" These words motivate me every day and help me move forward with determination to achieve my goals.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hsynkbulut) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@hsynkbulut) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@CanixTR) 
 
-The sacrifices I make and my learning journey make me a better version of myself. I look to the future with confidence because I know that every step I take today will help me build a better version of myself tomorrow. There are many things I want to achieve in this life and I have the confidence to realise them. No obstacle can stop me on my way, because I am getting stronger and stronger every day.
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
 
-- 📫 How to reach me **hsyn.kbulut@gmail.com**
+# 📊 GitHub Stats:
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=hsynkbulut&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hsynkbulut&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/hsynkbulut" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hsynkbulut" height="30" width="40" /></a>
-<a href="https://kaggle.com/hsynkbulut" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="hsynkbulut" height="30" width="40" /></a>
-<a href="https://medium.com/@hsynkbulut" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@hsynkbulut" height="30" width="40" /></a>
-</p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=hsynkbulut&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hsynkbulut&show_icons=true&locale=en&layout=compact" alt="hsynkbulut" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hsynkbulut&show_icons=true&locale=en" alt="hsynkbulut" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
